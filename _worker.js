@@ -24,7 +24,8 @@ let 我的优选 = [
   'www.visa.com',
 ] //格式127.0.0.1:443#US@notls或[2606:4700:3030:0:4563:5696:a36f:cdc5]:2096#US，如果#US不填则使用统一名称，如果@notls不填则默认使用TLS，每行一个，如果不填任何节点会生成一个默认自身域名的小黄云节点
 //let 我的优选TXT ='https://raw.githubusercontent.com/pingmike2/auto-email/refs/heads/main/addapi.txt' //优选TXT路径，表达格式与上述相同，使用TXT时脚本内部填写的节点无效，二选一
-let 我的优选TXT = 'https://addressesapi.090227.xyz/ct'
+//let 我的优选TXT = 'https://addressesapi.090227.xyz/ct'
+let 我的优选TXT = 'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt'
 //let 我的优选TXT = 'https://raw.githubusercontent.com/wangzhipeng0916/my_common/refs/heads/main/addapi.txt'
 
 
